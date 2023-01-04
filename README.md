@@ -8,6 +8,6 @@ STEP 2: Read through the comments above the code.
 
 STEP 3: Add your wallet address, private key, RPC URL which would be https://ropsten.infura.io/v3/YOUR_API_KEY in your .env file which is basically your env.example file . (Make a infura account if you haven't already and add ropsten test ethers on your wallet.)
 
-STEP 4: 
+
 
 
